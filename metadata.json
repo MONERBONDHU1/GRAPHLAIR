@@ -1,0 +1,7 @@
+{
+  "name": "GRAPHLAIR",
+  "description": "An ultra-modern educational platform for 3D graphics design featuring interactive 3D environments, AI-powered design tutoring, and professional curriculum.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
